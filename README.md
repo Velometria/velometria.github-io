@@ -1,2 +1,2 @@
-# velometria.github-io
+# velometria.github.io
 Velometria blog
